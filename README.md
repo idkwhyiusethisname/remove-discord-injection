@@ -8,8 +8,6 @@ python sciprt that remove discord injection
 
 ---------------------------------------
 
----------------------------------------
-
 ### SHOWCAST
 
 # BEFORE
