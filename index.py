@@ -7,7 +7,7 @@ CONTACT : t.me/Notregenxy
 
 '''
 
-import requests, os
+import os
 from re import search, findall
 
 def urmom():
