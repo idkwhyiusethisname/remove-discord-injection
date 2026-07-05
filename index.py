@@ -1,11 +1,3 @@
-'''
-OG CODE FROM RANDOM DISCORD INJECTION 
-
-MODIFIED BY REGENXY DONT REMOVE THIS CRADIT SKIDDER 
-
-CONTACT : t.me/Notregenxy
-
-'''
 
 import os
 from re import search, findall
